@@ -29,10 +29,6 @@ flutter pub get
 **For Desktop Windows:**
 
 ```bash
-flutter run -d windows    # Windows
-
-
-## 🎮 Game Controls
 
 | Action | Control |
 |--------|---------|
