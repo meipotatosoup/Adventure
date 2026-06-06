@@ -37,20 +37,6 @@ flutter pub get
 | Jump | `Space` or `W` |
 | Pause/Menu | `F` |
 
-
-## 📦 Dependencies
-
-- **[Flame](https://flame-engine.org/)** - 2D game engine for Flutter
-- **[Flame Tiled](https://pub.dev/packages/flame_tiled)** - Tiled map support for Flame
-- **[Flutter Lints](https://pub.dev/packages/flutter_lints)** - Linting rules
-
-## 🐛 Troubleshooting
-
-### Issue: "Cannot run on device" 
-
-Make sure you have a valid device connected or emulator running:
-```bash
-flutter devices
 ```
 
 ### Issue: Pub get fails
