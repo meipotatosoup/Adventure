@@ -39,10 +39,7 @@ flutter run -d windows    # Windows
 | Move Left | `A` or Left Arrow |
 | Move Right | `D` or Right Arrow |
 | Jump | `Space` or `W` |
-| Double Jump | `Space` twice |
-| Pause | `ESC` |
-
-## 📁 Project Structure
+| Pause/Menu | `F` |
 
 ```
 lib/
