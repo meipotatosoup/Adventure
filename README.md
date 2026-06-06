@@ -37,35 +37,6 @@ flutter pub get
 | Jump | `Space` or `W` |
 | Pause/Menu | `F` |
 
-```
-lib/
-├── main.dart                 # Application entry point
-├── pixel_adventure.dart      # Game class
-└── components/
-    ├── background_tile.dart  # Background tiles
-    ├── checkpoint.dart       # Level checkpoints
-    ├── collision_block.dart  # Collision blocks
-    ├── custom_hitbox.dart    # Custom hitbox for collisions
-    ├── fruit.dart            # Collectible items
-    ├── level.dart            # Level management
-    ├── player.dart           # Player character
-    └── utils.dart            # Utility functions
-
-assets/
-├── images/
-│   ├── Background/           # Background assets
-│   ├── Items/               # Item sprites
-│   ├── Main Characters/     # Player sprites
-│   ├── Menu/                # Menu assets
-│   ├── Other/               # Miscellaneous sprites
-│   ├── Terrain/             # Terrain tiles
-│   └── Traps/               # Trap sprites
-└── tiles/
-    ├── Level-01.tmx         # Tiled map file for level 1
-    ├── Level-02.tmx         # Tiled map file for level 2
-    └── Pixel Adventure.tsx  # Tiled tileset
-```
-
 
 ## 📦 Dependencies
 
