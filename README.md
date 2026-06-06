@@ -46,18 +46,6 @@ Clear the pub cache and try again:
 flutter clean
 flutter pub get
 ```
-
-### Issue: Build fails on Android
-
-Update your Android dependencies:
-```bash
-cd android
-./gradlew clean
-cd ..
-flutter pub get
-flutter run -d android
-```
-
 ---
 
 Happy gaming! 🎮
