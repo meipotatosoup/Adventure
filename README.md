@@ -1,15 +1,3 @@
-# Pixel Adventure
-
-A fun 2D platformer game built with Flutter and the Flame game engine. Explore levels, collect items, and overcome obstacles!
-
-## 🎮 Features
-
-- 2D pixel art platformer gameplay
-- Multiple levels with Tiled map support
-- Character movement and collision detection
-- Collectible items and checkpoints
-- Cross-platform support (Windows, macOS, Linux, iOS, Android, Web)
-
 ## 📋 Prerequisites
 
 Before you begin, ensure you have the following installed:
@@ -38,26 +26,11 @@ flutter pub get
 
 ### 3. Run the Project
 
-**For Desktop (Windows, macOS, or Linux):**
+**For Desktop Windows:**
 
 ```bash
 flutter run -d windows    # Windows
-flutter run -d macos      # macOS
-flutter run -d linux      # Linux
-```
 
-**For Mobile (iOS or Android):**
-
-```bash
-flutter run -d ios        # iOS (macOS only)
-flutter run -d android    # Android
-```
-
-**For Web:**
-
-```bash
-flutter run -d web
-```
 
 ## 🎮 Game Controls
 
@@ -100,52 +73,6 @@ assets/
     └── Pixel Adventure.tsx  # Tiled tileset
 ```
 
-## 🛠️ Development
-
-### Running in Debug Mode
-
-```bash
-flutter run
-```
-
-### Building for Release
-
-**Windows:**
-```bash
-flutter build windows --release
-```
-
-**macOS:**
-```bash
-flutter build macos --release
-```
-
-**Linux:**
-```bash
-flutter build linux --release
-```
-
-**Android:**
-```bash
-flutter build apk --release
-```
-
-**iOS:**
-```bash
-flutter build ios --release
-```
-
-### Code Analysis
-
-```bash
-flutter analyze
-```
-
-### Format Code
-
-```bash
-dart format lib/
-```
 
 ## 📦 Dependencies
 
@@ -180,18 +107,6 @@ cd ..
 flutter pub get
 flutter run -d android
 ```
-
-## 📝 License
-
-This project is provided as-is for personal use.
-
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for any improvements!
-
-## 📧 Support
-
-If you have any questions or encounter issues, please open an issue on the repository.
 
 ---
 
